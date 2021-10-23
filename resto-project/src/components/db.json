@@ -1,16 +1,22 @@
 {
-  "user": [
+  "users": [
     {
-      "name": "annanto",
-      "email": "annanto@test",
-      "password": "abc@123",
+      "email": "irfan@test.com",
+      "name": "Ahmed Irfan",
+      "password": "irfan@123",
       "id": 1
     },
     {
-      "name": "irfan",
-      "email": "irfan@test",
-      "password": "irfan@123",
+      "email": "Ad qui aliquip velit",
+      "password": "Pa$$w0rd!",
+      "name": "Recusandae Unde qui",
       "id": 2
+    },
+    {
+      "email": "Dignissimos beatae e",
+      "password": "Pa$$w0rd!",
+      "name": "Aut est velit qui ",
+      "id": 3
     }
   ]
 }
